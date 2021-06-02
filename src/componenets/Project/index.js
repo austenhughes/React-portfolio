@@ -8,7 +8,9 @@ function Project(props) {
 
           {props.projectState.map(project => (
 
-              <div className="projectCard" key={project._id}>
+              <div className="projectCard" 
+              key={project._id}
+              >
               <div className="projectPicture"> 
               <img src={project.img} alt={project.img} height="auto" width="45%"></img>
               </div>
