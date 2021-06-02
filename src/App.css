@@ -1,38 +1,165 @@
-.App {
-  text-align: center;
+body {
+    background-image: url("./assets/pictures/woodTexture.jpg");
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+} 
+
+.header{
+    padding: 25px;
+    background-image: url("./assets/pictures/speck.jpg");
+    text-align: center;
+    width: 100%;
+    margin-top: 0px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.namePlate{
+    font-family: fantasy;
+    font-size: 25px;
+    color: black;
+    font-weight: bolder;
+    padding: 25px;
+    background-image: url("./assets/pictures/whitePaper.jpg");
+    text-align: center;
+    width: 55%;
+    margin-left:auto;
+    margin-right: auto;
+    border: solid;
+    border-width: 10px;
+    border-image: url("./assets/pictures/moss.jpg") 10 repeat;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.nav{
+    background-image: url("./assets/pictures/speck.jpg");
+    width: 100%;
+    border: solid;
+    border-width: 10px;
+    border-left:0px;
+    border-right: 0px;
+    border-image: url("./assets/pictures/gold.jpg") 20 repeat;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.projectInfo{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: fantasy;
+    font-size: 20px;
+    color: black;
+    font-weight: bolder;
+    padding: 25px;
+    background-image: url("./assets/pictures/whitePaper.jpg");
+    text-align: center;
+    width: 55%; 
+    border:solid;
+    border-width: 10px;
+    border-image: url("./assets/pictures/gold.jpg") 10 repeat;
 }
 
-.App-link {
-  color: #61dafb;
+.bioInfo{
+    font-family: fantasy;
+    font-size: 20px;
+    color: black;
+    font-weight: bolder; 
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 25px;
+    background-image: url("./assets/pictures/whitePaper.jpg");
+    text-align: center;
+    width: 80%; 
+    border:solid;
+    border-width: 20px;
+    border-image: url("./assets/pictures/gold.jpg") 20 repeat;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.bioPic{
+    margin:5px;
+}
+
+.contactInfo{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: fantasy;
+    font-size: 20px;
+    color: black;
+    font-weight: bolder;
+    padding: 25px;
+    background-image: url("./assets/pictures/whitePaper.jpg");
+    text-align: center;
+    width: 80%;
+    border: solid;
+    border-width: 20px;
+    border-image: url("./assets/pictures/gold.jpg") 20 repeat; 
+}
+
+.projectCard{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: fantasy;
+    font-size: 20px;
+    color: black;
+    font-weight: bolder;
+    padding: 25px;
+    background-image: url("./assets/pictures/stone.jpg");
+    text-align: center;
+    width: 80%; 
+    border: solid;
+    border-width: 20px;
+    border-image: url("./assets/pictures/moss.jpg") 20 repeat;
+}
+
+/* .projectPicture{
+    width: auto; 
+    height: auto;
+} */
+
+.footer{
+    font-weight: bold;
+    font-family: fantasy;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    background-image: url("./assets/pictures/whitePaper.jpg");
+    height: auto;
+    width: 100%; 
+    border: solid;
+    border-width: 10px;
+    border-left:0px;
+    border-right: 0px;
+    border-image: url("./assets/pictures/moss.jpg") 20 repeat;
+}
+
+.homeFooter{
+    font-weight: bold;
+    font-family: fantasy;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    background-image: url("./assets/pictures/whitePaper.jpg");
+    height: auto;
+    width: 100%; 
+    border: solid;
+    border-width: 10px;
+    border-left:0px;
+    border-right: 0px;
+    border-image: url("./assets/pictures/moss.jpg") 20 repeat;
+    position: fixed;
+    bottom: 0px;
+}
+
+.btn{
+    font-weight: bold;
+    font-family: fantasy;
+    font-size: 20px;
+    color: black;
+    margin-left: 20px;
 }
