@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.31ea48aa.chunk.css",
-    "main.js": "/static/js/main.7ae7c800.chunk.js",
-    "main.js.map": "/static/js/main.7ae7c800.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bcfff28e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bcfff28e.js.map",
-    "static/js/2.a781e59b.chunk.js": "/static/js/2.a781e59b.chunk.js",
-    "static/js/2.a781e59b.chunk.js.map": "/static/js/2.a781e59b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.31ea48aa.chunk.css.map": "/static/css/main.31ea48aa.chunk.css.map",
-    "static/js/2.a781e59b.chunk.js.LICENSE.txt": "/static/js/2.a781e59b.chunk.js.LICENSE.txt",
-    "static/media/BioPic.e118d8d7.jpg": "/static/media/BioPic.e118d8d7.jpg",
-    "static/media/communityGarden.e0ac6547.png": "/static/media/communityGarden.e0ac6547.png",
-    "static/media/dashboard.67f7372c.png": "/static/media/dashboard.67f7372c.png",
-    "static/media/App.css": "/static/media/woodTexture.013e2bc7.jpg",
-    "static/media/password-generator.e72f8fb4.png": "/static/media/password-generator.e72f8fb4.png",
-    "static/media/quiz.8c7fd7b3.png": "/static/media/quiz.8c7fd7b3.png",
-    "static/media/random-art-generator.49db7b67.png": "/static/media/random-art-generator.49db7b67.png",
-    "static/media/techBlog.e7995e37.png": "/static/media/techBlog.e7995e37.png"
+    "main.css": "/React-portfolio/static/css/main.25e353e6.chunk.css",
+    "main.js": "/React-portfolio/static/js/main.7ae7c800.chunk.js",
+    "main.js.map": "/React-portfolio/static/js/main.7ae7c800.chunk.js.map",
+    "runtime-main.js": "/React-portfolio/static/js/runtime-main.6930532e.js",
+    "runtime-main.js.map": "/React-portfolio/static/js/runtime-main.6930532e.js.map",
+    "static/js/2.a781e59b.chunk.js": "/React-portfolio/static/js/2.a781e59b.chunk.js",
+    "static/js/2.a781e59b.chunk.js.map": "/React-portfolio/static/js/2.a781e59b.chunk.js.map",
+    "index.html": "/React-portfolio/index.html",
+    "static/css/main.25e353e6.chunk.css.map": "/React-portfolio/static/css/main.25e353e6.chunk.css.map",
+    "static/js/2.a781e59b.chunk.js.LICENSE.txt": "/React-portfolio/static/js/2.a781e59b.chunk.js.LICENSE.txt",
+    "static/media/BioPic.e118d8d7.jpg": "/React-portfolio/static/media/BioPic.e118d8d7.jpg",
+    "static/media/communityGarden.e0ac6547.png": "/React-portfolio/static/media/communityGarden.e0ac6547.png",
+    "static/media/dashboard.67f7372c.png": "/React-portfolio/static/media/dashboard.67f7372c.png",
+    "static/media/App.css": "/React-portfolio/static/media/woodTexture.013e2bc7.jpg",
+    "static/media/password-generator.e72f8fb4.png": "/React-portfolio/static/media/password-generator.e72f8fb4.png",
+    "static/media/quiz.8c7fd7b3.png": "/React-portfolio/static/media/quiz.8c7fd7b3.png",
+    "static/media/random-art-generator.49db7b67.png": "/React-portfolio/static/media/random-art-generator.49db7b67.png",
+    "static/media/techBlog.e7995e37.png": "/React-portfolio/static/media/techBlog.e7995e37.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bcfff28e.js",
+    "static/js/runtime-main.6930532e.js",
     "static/js/2.a781e59b.chunk.js",
-    "static/css/main.31ea48aa.chunk.css",
+    "static/css/main.25e353e6.chunk.css",
     "static/js/main.7ae7c800.chunk.js"
   ]
 }
