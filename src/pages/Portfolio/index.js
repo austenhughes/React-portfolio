@@ -23,36 +23,42 @@ function Portfolio(props) {
   const [projectState] = useState(
   [
   {
+  _id: 1,
   img: PasswordGeneratorPic,
   gitHub: "https://austenhughes.github.io/Password-Generator/",
   projectName: "Password Generator",
   projectLink: "https://github.com/austenhughes/Password-Generator"
   },
   {
+  _id: 2,
   img: QuizPic,
   gitHub: "https://github.com/austenhughes/timed-quiz",
   projectName: "Timed Quiz",
   projectLink: "https://austenhughes.github.io/timed-quiz/"
   },
   {
+  _id: 3,
   img: TechBlogPic,
   gitHub: "https://github.com/austenhughes/tech-blog",
   projectName: "Basic Blog",
   projectLink: "https://sheltered-wave-70995.herokuapp.com/"
   },
   {
+  _id: 4,
   img: WeatherDashPic,
   gitHub: "https://github.com/austenhughes/Weather-Dashboard",
   projectName: "Weather Dashboard",
   projectLink: "https://austenhughes.github.io/Weather-Dashboard/"
   },
   {
+  _id: 5,
   img: CommunityGardenPic,
   gitHub: "https://github.com/MKokich/Community-Garden",
   projectName: "Community Garden",
   projectLink: "https://community-gardens-2021.herokuapp.com/"
   },
   {
+  _id: 6,
   img: ArtPic,
   gitHub: "https://github.com/aarongermaine/met_art_generator",
   projectName: "Community Garden",
