@@ -18,11 +18,11 @@ function App() {
             <Home />
           </Route>
 
-        <Route exact path={["/bio-React"]}>
+        <Route exact path={["/React-portfolio/bio-React"]}>
             <Bio />
           </Route>
 
-        <Route exact path={["/portfolio-React"]}>
+        <Route exact path={["/React-portfolio/portfolio-React"]}>
             <Portfolio />
           </Route>
 
