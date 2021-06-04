@@ -1,6 +1,6 @@
 // import logo from './logo.svg';
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import Home from "./pages/Home/index";
 import Portfolio from "./pages/Portfolio/index";
 import Bio from "./pages/Bio/index";
@@ -14,7 +14,7 @@ function App() {
       <div>
         <Switch>
 
-        <Route exact path={["/", "/home", "/React-portfolio"]}>
+        <Route  exact path={["/", "/home", "/React-portfolio"]}>
             <Home />
           </Route>
 
