@@ -23,25 +23,25 @@ function Portfolio(props) {
   const [projectState] = useState(
   [
   {
-  _id: 1,
+  _id: 3,
+  img: TechBlogPic,
+  gitHub: "https://github.com/austenhughes/tech-blog",
+  projectName: "Basic Blog",
+  projectLink: "https://sheltered-wave-70995.herokuapp.com/"
+  },
+  {
+  _id: 2,
   img: PasswordGeneratorPic,
   gitHub: "https://austenhughes.github.io/Password-Generator/",
   projectName: "Password Generator",
   projectLink: "https://github.com/austenhughes/Password-Generator"
   },
   {
-  _id: 2,
-  img: QuizPic,
-  gitHub: "https://github.com/austenhughes/timed-quiz",
-  projectName: "Timed Quiz",
-  projectLink: "https://austenhughes.github.io/timed-quiz/"
-  },
-  {
-  _id: 3,
-  img: TechBlogPic,
-  gitHub: "https://github.com/austenhughes/tech-blog",
-  projectName: "Basic Blog",
-  projectLink: "https://sheltered-wave-70995.herokuapp.com/"
+  _id: 1,
+  img: CommunityGardenPic,
+  gitHub: "https://github.com/MKokich/Community-Garden",
+  projectName: "Community Garden",
+  projectLink: "https://community-gardens-2021.herokuapp.com/"
   },
   {
   _id: 4,
@@ -52,18 +52,11 @@ function Portfolio(props) {
   },
   {
   _id: 5,
-  img: CommunityGardenPic,
-  gitHub: "https://github.com/MKokich/Community-Garden",
-  projectName: "Community Garden",
-  projectLink: "https://community-gardens-2021.herokuapp.com/"
-  },
-  {
-  _id: 6,
   img: ArtPic,
   gitHub: "https://github.com/aarongermaine/met_art_generator",
   projectName: "Community Garden",
   projectLink: "https://aarongermaine.github.io/group_project/"
-  }
+  },
   ]
   );
 
