@@ -19,7 +19,6 @@ function Bio(props) {
       <HomePageBtn />
       <PortfolioPageBtn />
       </Nav> 
-      {/* <Container> */}
       <BioInfo />
       <ContactInfo />
       <Footer />
