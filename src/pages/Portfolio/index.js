@@ -14,6 +14,7 @@ import WeatherDashPic from "../../assets/pictures/dashboard.png";
 import TechBlogPic from "../../assets/pictures/techBlog.png";
 import CommunityGardenPic from "../../assets/pictures/communityGarden.png";
 import ArtPic from "../../assets/pictures/random-art-generator.png";
+import theBuffoonery from "../../assets/pictures/theBafoonery.png";
 
 
 import "./style.css";
@@ -23,7 +24,14 @@ function Portfolio(props) {
   const [projectState] = useState(
   [
   {
-  _id: 3,
+  _id: 1,
+  img: theBuffoonery,
+  gitHub: "https://github.com/austenhughes/The-Baffoonery",
+  projectName: "the Buffoonery",
+  projectLink: "https://arcane-sands-38677.herokuapp.com/"
+  },
+  {
+  _id: 2,
   img: TechBlogPic,
   gitHub: "https://github.com/austenhughes/tech-blog",
   projectName: "Basic Blog",
@@ -37,7 +45,7 @@ function Portfolio(props) {
   projectLink: "https://github.com/austenhughes/Password-Generator"
   },
   {
-  _id: 1,
+  _id: 3,
   img: CommunityGardenPic,
   gitHub: "https://github.com/MKokich/Community-Garden",
   projectName: "Community Garden",
@@ -54,7 +62,7 @@ function Portfolio(props) {
   _id: 5,
   img: ArtPic,
   gitHub: "https://github.com/aarongermaine/met_art_generator",
-  projectName: "Community Garden",
+  projectName: "Random Art Generator",
   projectLink: "https://aarongermaine.github.io/group_project/"
   },
   ]
