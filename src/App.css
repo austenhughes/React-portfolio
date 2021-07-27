@@ -42,6 +42,14 @@ body {
     /* border-image: url("./assets/pictures/gold.jpg") 20 repeat; */
 }
 
+.projectPicture{
+    /* border: solid;
+    border-width: 5px;
+    border-radius: 25px;  */
+    /* height: auto;
+    width: 55%; */
+}
+
 .projectInfo{
     margin-right: auto;
     margin-left: auto;
@@ -222,8 +230,7 @@ body {
         font-weight: bold;
         font-family: 'Times New Roman', Times, serif;
         font-size: 12px;
-        position: relative;
-        /* bottom: 0px; */
+        /* position: relative; */
     }  
 
     .btn{

@@ -16,6 +16,8 @@ function Project(props) {
               </div>
               <div className="projectInfo">
               <div>{project.projectName}</div>
+              <div>{project.description}</div>
+              <div>{project.builtWith}</div>
               <a href={project.projectLink} target="_blank"> link : {project.projectName}</a> <br />
               <a href={project.gitHub} target="_blank"> Github : {project.projectName}</a>
               </div>
