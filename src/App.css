@@ -27,19 +27,19 @@ body {
     margin-left:auto;
     margin-right: auto;
     border: solid;
-    border-width: 10px;
-    /* border-radius: 25px; */
-    border-image: url("./assets/pictures/moss.jpg") 10 repeat;
+    border-width: 5px;
+    border-radius: 25px;
+    /* border-image: url("./assets/pictures/moss.jpg") 10 repeat; */
 }
 
 .nav{
     background-image: url("./assets/pictures/speck.jpg");
     width: 100%;
     border: solid;
-    border-width: 10px;
+    border-width: 5px;
     border-left:0px;
     border-right: 0px;
-    border-image: url("./assets/pictures/gold.jpg") 20 repeat;
+    /* border-image: url("./assets/pictures/gold.jpg") 20 repeat; */
 }
 
 .projectInfo{
@@ -56,8 +56,9 @@ body {
     text-align: center;
     width: 55%; 
     border:solid;
-    border-width: 10px;
-    border-image: url("./assets/pictures/gold.jpg") 10 repeat;
+    border-radius: 45px;
+    border-width: 5px;
+    /* border-image: url("./assets/pictures/gold.jpg") 10 repeat; */
 }
 
 .bioInfo{
@@ -74,8 +75,9 @@ body {
     text-align: center;
     width: 80%; 
     border:solid;
-    border-width: 20px;
-    border-image: url("./assets/pictures/gold.jpg") 20 repeat;
+    border-radius: 45px;
+    border-width: 5px;
+    /* border-image: url("./assets/pictures/gold.jpg") 20 repeat; */
 }
 
 .bioPic{
@@ -96,8 +98,9 @@ body {
     text-align: center;
     width: 80%;
     border: solid;
-    border-width: 20px;
-    border-image: url("./assets/pictures/gold.jpg") 20 repeat; 
+    border-radius: 45px;
+    border-width: 5px;
+    /* border-image: url("./assets/pictures/gold.jpg") 20 repeat;  */
 }
 
 .projectCard{
@@ -114,8 +117,9 @@ body {
     text-align: center;
     width: 80%; 
     border: solid;
-    border-width: 20px;
-    border-image: url("./assets/pictures/moss.jpg") 20 repeat;
+    border-radius: 45px;
+    border-width: 5px;
+    /* border-image: url("./assets/pictures/moss.jpg") 20 repeat; */
 }
 
 .footer{
@@ -128,10 +132,10 @@ body {
     height: auto;
     width: 100%; 
     border: solid;
-    border-width: 10px;
+    border-width: 5px;
     border-left:0px;
     border-right: 0px;
-    border-image: url("./assets/pictures/moss.jpg") 20 repeat;
+    /* border-image: url("./assets/pictures/moss.jpg") 20 repeat; */
 }
 
 .homeFooter{
@@ -144,10 +148,10 @@ body {
     height: auto;
     width: 100%; 
     border: solid;
-    border-width: 10px;
+    border-width: 5px;
     border-left:0px;
     border-right: 0px;
-    border-image: url("./assets/pictures/moss.jpg") 20 repeat;
+    /* border-image: url("./assets/pictures/moss.jpg") 20 repeat; */
     position: fixed;
     bottom: 0px;
 }
@@ -158,7 +162,7 @@ body {
     font-size: 20px;
     color: black;
     margin-left: 20px;
-    background-color: blanchedalmond;
+    background-color: whitesmoke;
     border: solid;
     border-width: 2px;
     border-radius: 25px;
