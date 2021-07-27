@@ -28,6 +28,7 @@ body {
     margin-right: auto;
     border: solid;
     border-width: 10px;
+    /* border-radius: 25px; */
     border-image: url("./assets/pictures/moss.jpg") 10 repeat;
 }
 
@@ -157,4 +158,62 @@ body {
     font-size: 20px;
     color: black;
     margin-left: 20px;
+    background-color: blanchedalmond;
+    border: solid;
+    border-width: 2px;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+@media screen and (max-width: 500px) {
+
+    body {
+        /* font-size: 10px; */
+    } 
+    
+    .header{
+        /* font-size: 10px; */
+    }
+    
+    .namePlate{
+        font-size: 14px;
+    }
+    
+    .nav{
+        /* font-size: 10px; */
+    }
+    
+    .projectInfo{
+        font-size: 10px;
+    }
+    
+    .bioInfo{
+        font-size: 10px;
+    }
+    
+    .bioPic{
+       
+    }
+    
+    .contactInfo{
+        font-size: 10px;
+    }
+    
+    .projectCard{
+        font-size: 10px;
+     }
+
+    .footer{
+        font-size: 10px;
+    }
+    
+    .homeFooter{
+        font-size: 10px;
+    }  
+
+    .btn{
+        font-size: 10px; 
+    }
+
 }
