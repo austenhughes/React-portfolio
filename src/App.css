@@ -177,7 +177,8 @@ body {
     }
     
     .namePlate{
-        font-size: 14px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 12px;
     }
     
     .nav{
@@ -185,11 +186,13 @@ body {
     }
     
     .projectInfo{
-        font-size: 10px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 12px;
     }
     
     .bioInfo{
-        font-size: 10px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 12px;
     }
     
     .bioPic{
@@ -197,23 +200,31 @@ body {
     }
     
     .contactInfo{
-        font-size: 10px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 12px;
     }
     
     .projectCard{
-        font-size: 10px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 12px;
      }
 
     .footer{
-        font-size: 10px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 12px;
     }
     
     .homeFooter{
-        font-size: 10px;
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 12px;
+        position: relative;
+        /* bottom: 0px; */
     }  
 
     .btn{
-        font-size: 10px; 
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 12px;
     }
 
 }
