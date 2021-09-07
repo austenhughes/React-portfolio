@@ -34,7 +34,7 @@ body {
 
 .nav{
     background-image: url("./assets/pictures/speck.jpg");
-    width: 100%;
+    width: 120%;
     border: solid;
     border-width: 5px;
     border-left:0px;
@@ -177,6 +177,11 @@ body {
     padding-left: 10px;
     padding-right: 10px;
 }
+
+/* .container-fluid {
+    padding-left:0px;
+    padding-right:0px
+} */
 
 @media screen and (max-width: 500px) {
 
