@@ -34,7 +34,7 @@ body {
 
 .nav{
     background-image: url("./assets/pictures/speck.jpg");
-    width: 120%;
+    width: 100%;
     border: solid;
     border-width: 5px;
     border-left:0px;
@@ -186,19 +186,30 @@ body {
 @media screen and (max-width: 500px) {
 
     body {
-        /* font-size: 10px; */
+        width: 100%;
     } 
     
     .header{
-        /* font-size: 10px; */
+        /* padding: 15px; */
+        /* background-image: url("./assets/pictures/speck.jpg"); */
+        /* width: 100%; */
+        width:auto !important;
+        margin-top: 0px;
     }
     
     .namePlate{
         font-family: 'Times New Roman', Times, serif;
         font-size: 12px;
+
+        width: 55%;
+        margin-left:auto;
+        margin-right: auto;
+        border-width: 5px;
+        border-radius: 25px;
     }
     
     .nav{
+        width:100%;
         /* font-size: 10px; */
     }
     
