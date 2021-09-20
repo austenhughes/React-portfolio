@@ -9,7 +9,7 @@ function ContactInfo(props) {
       <div> Phone # : 847 422 3251 </div>
       <a href="https://www.linkedin.com/in/austen-hughes-97bb0b202/" target="_blank"> Linked in : https://www.linkedin.com/in/austen-hughes-97bb0b202/ </a> <br />
       <a href="https://github.com/austenhughes" target="_blank"> GitHub : https://github.com/austenhughes </a> <br />
-      <a href="https://drive.google.com/file/d/16rN_3j-oglxnKga_sgLKnr9jqV3mH4Sm/view?usp=sharing" target="_blank"> Resume  </a> <br />
+      <a href="https://drive.google.com/file/d/1YbMtVG5u1r71FKpLBzT5lDtL9k4Y7l1w/view?usp=sharing" target="_blank"> Resume  </a> <br />
       </div>
     );
     

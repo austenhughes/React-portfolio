@@ -29,7 +29,7 @@ function Portfolio(props) {
   description: "A site for sharing and saving favorite cheesy jokes",
   builtWith: "Built with : Bcrypt authentication, React framework/JSX, Mongodb, Material UI/CSS",
   gitHub: "https://github.com/austenhughes/The-Baffoonery",
-  projectName: "The Buffoonery",
+  projectName: "The Baffoonery",
   projectLink: "https://arcane-sands-38677.herokuapp.com/"
   },
   {

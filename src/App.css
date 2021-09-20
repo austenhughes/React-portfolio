@@ -42,14 +42,6 @@ body {
     /* border-image: url("./assets/pictures/gold.jpg") 20 repeat; */
 }
 
-.projectPicture{
-    /* border: solid;
-    border-width: 5px;
-    border-radius: 25px;  */
-    /* height: auto;
-    width: 55%; */
-}
-
 .projectInfo{
     margin-right: auto;
     margin-left: auto;
@@ -160,7 +152,7 @@ body {
     border-left:0px;
     border-right: 0px;
     /* border-image: url("./assets/pictures/moss.jpg") 20 repeat; */
-    position: fixed;
+    /* position: fixed; */
     bottom: 0px;
 }
 
@@ -183,6 +175,7 @@ body {
     padding-right:0px
 } */
 
+
 @media screen and (max-width: 500px) {
 
     body {
@@ -199,8 +192,7 @@ body {
     
     .namePlate{
         font-family: 'Times New Roman', Times, serif;
-        font-size: 12px;
-
+        font-size: 18px;
         width: 55%;
         margin-left:auto;
         margin-right: auto;
@@ -223,10 +215,6 @@ body {
         font-size: 12px;
     }
     
-    .bioPic{
-       
-    }
-    
     .contactInfo{
         font-family: 'Times New Roman', Times, serif;
         font-size: 12px;
@@ -238,6 +226,7 @@ body {
      }
 
     .footer{
+        font-weight: bold;
         font-family: 'Times New Roman', Times, serif;
         font-size: 12px;
     }
@@ -246,7 +235,6 @@ body {
         font-weight: bold;
         font-family: 'Times New Roman', Times, serif;
         font-size: 12px;
-        /* position: relative; */
     }  
 
     .btn{
@@ -255,3 +243,4 @@ body {
     }
 
 }
+

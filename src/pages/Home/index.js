@@ -7,6 +7,7 @@ import BioPageBtn from "../../componenets/BioPageBtn/index";
 // import BioInfo from "../../componenets/BioInfo/index";
 import HomeFooter from "../../componenets/HomeFooter/index";
 import ContactInfo from "../../componenets/ContactInfo/index";
+import SkillCard from "../../componenets/SkillCard/index";
 
 import "./style.css";
 
@@ -19,6 +20,7 @@ function Home(props) {
       <BioPageBtn />
       <PortfolioPageBtn />
       </Nav> 
+      <SkillCard />
       <ContactInfo />
       <HomeFooter />
       </Container>
