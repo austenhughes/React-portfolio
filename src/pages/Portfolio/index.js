@@ -68,15 +68,15 @@ function Portfolio(props) {
   projectName: "Weather Dashboard",
   projectLink: "https://austenhughes.github.io/Weather-Dashboard/"
   },
-  {
-  _id: 6,
-  img: ArtPic,
-  description: "Built to display random art form the Met Museum at the click of a button",
-  builtWith: "Built with : HTML, Javascript, Bulma/CSS",
-  gitHub: "https://github.com/aarongermaine/met_art_generator",
-  projectName: "Random Art Generator",
-  projectLink: "https://aarongermaine.github.io/group_project/"
-  },
+  // {
+  // _id: 6,
+  // img: ArtPic,
+  // description: "Built to display random art form the Met Museum at the click of a button",
+  // builtWith: "Built with : HTML, Javascript, Bulma/CSS",
+  // gitHub: "https://github.com/aarongermaine/met_art_generator",
+  // projectName: "Random Art Generator",
+  // projectLink: "https://aarongermaine.github.io/group_project/"
+  // },
   ]
   );
 
